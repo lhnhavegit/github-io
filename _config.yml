@@ -155,7 +155,7 @@ sidebar:
     enable: true
     img: /public/psb.jpg # 头像的地址
     info: <br>软件开发<br>Java后台<br>一个顾家的暖男<br>喜欢游戏<br>ACMer # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=404610&auto=1&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=404610&auto=1&height=32"></iframe>'
   social:
 #  - title: rss
 #    href: /atom.xml
